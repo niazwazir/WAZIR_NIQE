@@ -1,3 +1,0 @@
-DOWNLOAD FOLDER
-UNZIP
-Simply run wazirniqe in matlab
